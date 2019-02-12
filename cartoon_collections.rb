@@ -25,7 +25,7 @@ def find_the_cheese(strings)
   if strings.include?(cheese)
     return cheese
   else
-    return " "
+    return nil
   end  
    }
   
