@@ -24,6 +24,8 @@ def find_the_cheese(strings)
   cheese_types.map { |cheese|
   if strings.include?(cheese)
     return cheese
+  else
+    return " "
   end  
    }
   
