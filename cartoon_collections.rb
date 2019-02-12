@@ -27,6 +27,7 @@ def find_the_cheese(strings)
     end
   else
     new_array = " "
+  end  
    }
   
 end
